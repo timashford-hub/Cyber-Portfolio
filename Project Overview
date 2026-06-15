@@ -1,0 +1,16 @@
+# **Cyber CV**
+
+**Intro**
+This project focused on identifying and fixing critical security gaps for a local small business with an outdated network setup. Using network analysis logs, SQL databases, and file system metadata, I conducted a comprehensive security audit to find vulnerabilities. The final result was a complete remediation plan that successfully locked down file access, secured database queries, and established a formal incident response log.
+
+**Modeling and Evaluation**
+Instead of heavy machine learning algorithms, the "models" used here were standard security frameworks, logical access controls, and data filtering techniques to evaluate system safety:
+
+Linux Permission Framework: I analyzed the existing file structure and used Linux commands to restrict access. Success was evaluated by verifying that unauthorized users could no longer read or write to sensitive data files.
+
+SQL Query Filtering: I reviewed database inputs and applied specific filters to text queries. This was evaluated by testing the inputs to ensure they blocked common injection attacks while still importing and parsing legitimate text files correctly.
+
+Incident Handling Journal: I created a structured documentation template to track security events. It was evaluated against standard incident response goals to ensure a security analyst could easily trace an event from detection to resolution.
+
+**Conclusion**
+My primary recommendation is for the business to immediately adopt the new Linux file permission schema and mandate filtered SQL queries to prevent basic data leaks. For future steps, I plan to expand this project by automating the security audit process using Python scripts to scan for open network ports. Additionally, I will take the core technical skills demonstrated in this project to update my professional statement and revise my resume for upcoming cybersecurity roles.
