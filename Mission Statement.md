@@ -1,1 +1,2 @@
-
+# Tim Ashford - Cyber Analyst
+A disciplined and highly motivated professional with a rigorous work ethic, specializing in building secure, resilient infrastructure. Driven by a core mission to protect networks from harm and defend vulnerable personnel from threat actors, I leverage a technical foundation in Python, SQL, Bash, Kubernetes, and Cloud architectures. My goal is to navigate and secure complex network environments, aligning technical defense with the high-stakes security objectives of enterprise and government organizations.
